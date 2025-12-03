@@ -1,3 +1,4 @@
+https://github.com/pages-themes/midnight.git
 # crypticfaze.github.io
 Kindrik Branch
 Bachelor of Science Degree in Cybersecurity at Chestnut Hill College, where I have developed a strong academic foundation in computer hardware, networking, digital forensics, and applied operating systems. 
