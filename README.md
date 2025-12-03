@@ -57,7 +57,7 @@
 </head>
 <body>
   <header>
-    <h1>FutureStack Studios</h1>
+    <h1>FutureStacks Studios</h1>
     <nav>
       <a href="#">Home</a>
       <a href="#">Blogs</a>
