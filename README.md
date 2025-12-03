@@ -1,4 +1,4 @@
-https://github.com/pages-themes/midnight.git
+
 # crypticfaze.github.io
 Name: Kindrik Branch
 
